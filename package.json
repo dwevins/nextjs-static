@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/dwevins/nextjs-static/issues"
   },
-  "homepage": "https://github.com/dwevins/nextjs-static#readme"
+  "homepage": "https://github.com/dwevins/nextjs-static#readme",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "yarn": "^1.13.0"
+  }
 }
